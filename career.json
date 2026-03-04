@@ -1,0 +1,26 @@
+[
+  {
+    "nama_profesi": "Software Developer",
+    "kategori": "Teknologi",
+    "deskripsi": "Membuat aplikasi dan sistem.",
+    "skill": ["Python", "Problem Solving"],
+    "jalur": ["S1 Informatika", "Bootcamp Programming"],
+    "prospek": "Sangat Tinggi"
+  },
+  {
+    "nama_profesi": "Data Analyst",
+    "kategori": "Teknologi",
+    "deskripsi": "Menganalisis data untuk pengambilan keputusan.",
+    "skill": ["SQL", "Excel", "Python"],
+    "jalur": ["S1 Statistika", "S1 Informatika"],
+    "prospek": "Tinggi"
+  },
+  {
+    "nama_profesi": "Digital Marketing",
+    "kategori": "Bisnis",
+    "deskripsi": "Promosi produk secara digital.",
+    "skill": ["SEO", "Copywriting"],
+    "jalur": ["S1 Marketing"],
+    "prospek": "Tinggi"
+  }
+]
